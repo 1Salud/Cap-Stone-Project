@@ -24,10 +24,10 @@ ShoppingList is a fully functional iOS app designed to help users manage grocery
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 <div>
-    <a href="https://www.loom.com/share/11ab84674b3b4f5589e9c516de2b87e0?sid=a33eef39-ea7c-42bb-b6dc-749f6b241d69">
+    <a href="https://www.loom.com/share/d5e7b703837846c1993020d94547821b?sid=61dd404b-1ab6-4836-98f0-4f5ecded8a1b">
       <p>Simulator - iPhone 14 Pro - 10 June 2025 - Watch Video</p>
     </a>
-     <a href="[https://www.loom.com/share/21ab7c20ecd341baad60e748e9385c00?sid=07dbc99d-69f0-4eab-8098-b666778acf02](https://www.loom.com/share/517fb19b9a8849a5a3297d70cf75a532?sid=5fb80005-030d-45f5-b40b-661d346eee46)">
+     <a href="[https://www.loom.com/share/d5e7b703837846c1993020d94547821b?sid=61dd404b-1ab6-4836-98f0-4f5ecded8a1b](https://www.loom.com/share/d5e7b703837846c1993020d94547821b?sid=61dd404b-1ab6-4836-98f0-4f5ecded8a1b)">
       <img style="max-width:300px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpwNWt6anU5YXl3dXh0dDA0eWVwdGxmdm9zc3V3aDNvNGdueTJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCO6r2T1S9nQlJP1So/giphy.gif">
   </div>
        
