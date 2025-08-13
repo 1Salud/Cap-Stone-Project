@@ -28,7 +28,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
       <p>Simulator - iPhone 14 Pro - 10 June 2025 - Watch Video</p>
     </a>
      <a href="[https://www.loom.com/share/d5e7b703837846c1993020d94547821b?sid=61dd404b-1ab6-4836-98f0-4f5ecded8a1b](https://www.loom.com/share/d5e7b703837846c1993020d94547821b?sid=61dd404b-1ab6-4836-98f0-4f5ecded8a1b)">
-      <img style="max-width:300px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpwNWt6anU5YXl3dXh0dDA0eWVwdGxmdm9zc3V3aDNvNGdueTJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCO6r2T1S9nQlJP1So/giphy.gif">
+      <img style="max-width:300px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVoM2s2bGdxbjM0eW1vMjI3dW1vZWlnZzlwbHM0dTVsNWRtY2UxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17qkwDdHKnWWBpwgSK/giphy.gif">
   </div>
        
 ## Features
